@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TheAnswer/1/static/js/main.4558ff46.js",
-    "index.html": "/TheAnswer/1/index.html",
-    "main.4558ff46.js.map": "/TheAnswer/1/static/js/main.4558ff46.js.map"
+    "main.js": "/TheAnswer/static/js/main.a68030d1.js",
+    "index.html": "/TheAnswer/index.html",
+    "main.a68030d1.js.map": "/TheAnswer/static/js/main.a68030d1.js.map"
   },
   "entrypoints": [
-    "static/js/main.4558ff46.js"
+    "static/js/main.a68030d1.js"
   ]
 }
