@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lucien-mhl.github.io/倉庫名/TheAnswer/",
+  "homepage": "http://lucien-mhl.github.io/TheAnswer/1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
