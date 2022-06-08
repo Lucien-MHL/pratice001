@@ -9,8 +9,8 @@ function App() {
     <BrowserRouter>
       <Nav />
       <Routes>
-        <Route path="/1" element={<Sum />} />
-        <Route path="/2" element={<Prize />} />
+        <Route path="TheAnswer/1" element={<Sum />} />
+        <Route path="TheAnswer/2" element={<Prize />} />
       </Routes>
     </BrowserRouter>
   );

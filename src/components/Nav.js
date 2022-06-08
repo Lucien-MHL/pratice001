@@ -11,7 +11,7 @@ const Nav = () => {
               className={({ isActive }) =>
                 "nav-link" + (isActive ? " active fw-bold" : "")
               }
-              to="/1"
+              to="TheAnswer/1"
               end
             >
               題目一
@@ -22,7 +22,7 @@ const Nav = () => {
               className={({ isActive }) =>
                 "nav-link" + (isActive ? " active fw-bold" : "")
               }
-              to="/2"
+              to="TheAnswer/2"
               end
             >
               題目二
