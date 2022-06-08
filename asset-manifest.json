@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/%E5%80%89%E5%BA%AB%E5%90%8D/TheAnswer/static/js/main.a68030d1.js",
-    "index.html": "/%E5%80%89%E5%BA%AB%E5%90%8D/TheAnswer/index.html",
-    "main.a68030d1.js.map": "/%E5%80%89%E5%BA%AB%E5%90%8D/TheAnswer/static/js/main.a68030d1.js.map"
+    "main.js": "/TheAnswer/1/static/js/main.4558ff46.js",
+    "index.html": "/TheAnswer/1/index.html",
+    "main.4558ff46.js.map": "/TheAnswer/1/static/js/main.4558ff46.js.map"
   },
   "entrypoints": [
-    "static/js/main.a68030d1.js"
+    "static/js/main.4558ff46.js"
   ]
 }
