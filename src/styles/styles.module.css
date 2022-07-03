@@ -40,6 +40,7 @@
   cursor: pointer;
 }
 
+/* why composes is unknown property */
 .forgot {
   composes: btn;
 }
